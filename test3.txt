@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
   int a;
   printf("enetr the num");
@@ -12,5 +12,4 @@ int main()
    {
     printf("odd");
     }
-    return 0;
-    }
+   }
