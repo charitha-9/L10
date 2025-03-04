@@ -7,10 +7,12 @@ int main()
   if (a%2==0)
   { 
    printf("even");
-   }
+   }        
+    printf("YES");
    else
    {
     printf("odd");
     }
+     printf("NO");
     return 0;
     }
