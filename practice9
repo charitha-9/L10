@@ -11,8 +11,7 @@ int main(){
   }
 
  void calculateprice(float value){
-  value=a+(0.18*a);
+  value=value+(0.18*value);
   printf("final price is %f \n :",a);
   return;
   }
-  
