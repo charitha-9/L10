@@ -11,7 +11,12 @@ int main(){
   }
 
  void calculateprice(float value){
-  value=value+(0.18*value);
-  printf("final price is %f \n :",a);
+  if(n==1)
+  {
+    printf("gst is added:");
+    }
+    else{
+     printf("no gst added:");
+  
   return;
   }
