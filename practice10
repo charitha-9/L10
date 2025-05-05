@@ -19,6 +19,6 @@ struct student{
 
 
    printf("\nStudent Info:\n");
-   printf("name: %s\n Age: %d\n Marks: %.2f\n",s.name,s.age,s.marks);
+   printf("name: %s\n Age: %d\n Marks: %.2f\n",s.name,s.age,s.section,s.marks);
    return 0;
    }  
