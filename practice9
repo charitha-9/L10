@@ -1,0 +1,23 @@
+#include<stdio.h>
+void calculateprice(float value);
+
+int main(){
+  float a;
+  printf("enter the price:");
+  scanf("%f",&a);
+  value=a;
+  calculateprice(value);
+  return 0;
+  }
+
+ void calculateprice(float value){
+ int n=1;
+  if(n==1)
+  {
+    printf("gst is added:");
+    }
+    else{
+     printf("no gst added:");
+  
+  return;
+  }`

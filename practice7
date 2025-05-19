@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 nothing
 
+=======
+<html>
+<head>
+    <title>First Page</title>
+</head>
+<body>
+     <img src="plant.jpg"alt="sample image"
+ width="300"height="300">
+ <a herf="some web url">visit thi page</a>
+>>>>>>> master
 
